@@ -5,9 +5,9 @@ Materiales de MetaDocencia en Portugués
 
 * Link to CoC (is translated, if you are ok with this translation, you can copy here under a file call conduct.md): https://www.contributor-covenant.org/pt-br/version/2/0/code_of_conduct/
 
-* Link to pre-register form
+* Link to pre-register form: https://docs.google.com/forms/d/1tx0bPjfDMWstFuecz6DcgwjDtp-6PBO0Tdfse0gpbX4/edit?usp=sharing
 
-* Link to post-course survey
+* Link to post-course survey: https://docs.google.com/forms/d/1O-6hLb7YR_MEYl22-25XPwvYucbqOdrwyKWv968eiSU/edit?usp=sharing
 
 * Link to Startup Kit: https://github.com/MetaDocencia/StartupKit
   - Principal documents: 
