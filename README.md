@@ -1,4 +1,4 @@
-# MetaDocenciaEnPortugues
+# MetaDocencia En Portugues
 Materiales de MetaDocencia en Portugués
 
 * Link to slides: https://docs.google.com/presentation/d/1TRRvyhfj_rUSVw-b7onf2yUUghrIfBuHKSAnwOWmjYI/edit?usp=sharing
