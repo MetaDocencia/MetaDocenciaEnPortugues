@@ -11,5 +11,6 @@ Materiales de MetaDocencia en Portugués
 
 * Link to Startup Kit: https://github.com/MetaDocencia/StartupKit
   - Principal documents: 
-    * Helper guide and check list
-    * Teacher guide and check list
+    * Helper guide and check list: https://docs.google.com/document/d/1vkjga3-ws0vNpwcp3TgaxbcnMpSfZwGBwu9tqUTUY6E/edit?usp=sharing
+    * Teacher guide and check list: https://docs.google.com/document/d/1ay_7-DVK_ior004MoiKmD_rxWbr8xMlHDcMr05KdCxE/edit?usp=sharing
+    * Shared doc template: https://docs.google.com/document/d/1Q8W3Nj3koic_6PDDvyelaZ9bfgIqLNvNOSj9sQNezRU/edit?usp=sharing
